@@ -32,7 +32,7 @@ body {
   }
   #code {
 display: none;
-    color: rgba(252, 252, 252, 0.998);
+    color: rgba(255, 255, 255, 0.998);
     font-size: 30px;
     margin-top: 62px;
     min-width: 500px;
