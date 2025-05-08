@@ -31,12 +31,13 @@ body {
     position: absolute;
   }
   #code {
-    display: none;
-    color: rgb(196, 255, 255);
-    font-size: 16px;
-    margin-top: 70px;
-    line-height: 25px;
-    font-size: larger;
+display: none;
+    color: rgba(252, 252, 252, 0.998);
+    font-size: 30px;
+    margin-top: 62px;
+    min-width: 500px;
+    line-height: 45px;
+    font-size: x-large;
     font-weight: bolder;
   }
   #clock-box {
